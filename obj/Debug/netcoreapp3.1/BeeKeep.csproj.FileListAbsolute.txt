@@ -1,0 +1,11 @@
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\bin\Debug\netcoreapp3.1\BeeKeep.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\bin\Debug\netcoreapp3.1\BeeKeep.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\bin\Debug\netcoreapp3.1\BeeKeep.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\bin\Debug\netcoreapp3.1\BeeKeep.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\bin\Debug\netcoreapp3.1\BeeKeep.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\bin\Debug\netcoreapp3.1\BeeKeep.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\obj\Debug\netcoreapp3.1\BeeKeep.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\obj\Debug\netcoreapp3.1\BeeKeep.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\obj\Debug\netcoreapp3.1\BeeKeep.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\obj\Debug\netcoreapp3.1\BeeKeep.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\Semester 2\BeeKeep\obj\Debug\netcoreapp3.1\BeeKeep.pdb
